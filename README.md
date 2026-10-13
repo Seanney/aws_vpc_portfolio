@@ -1,4 +1,4 @@
-# aws_vpc_portfolio
+# aws_vpc_portfolio (VPC with Dual NAT )
 Implementation a high-availability dual-NAT VPC using terraform
 # High Availability AWS VPC with Dual NAT Gateways
 
