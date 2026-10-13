@@ -1,0 +1,11 @@
+What I Learned
+Importance of same-AZ routing when using dual NAT Gateways
+Trade-offs between single NAT (cheaper) vs dual NAT (resilient)
+Clean separation of public and private route tables
+Using Terraform for repeatable infrastructure
+
+
+Tech Stack
+Infrastructure as Code: Terraform
+Cloud: AWS (eu-north-1)
+Services: VPC, Subnets, Internet Gateway, NAT Gateway, Elastic IP, Route Tables
